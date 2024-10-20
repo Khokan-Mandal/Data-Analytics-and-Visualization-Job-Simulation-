@@ -1,4 +1,4 @@
-# Data-Analytics-and-Visualization-Job-Simulation
+# Accenture Data-Analytics-and-Visualization-Job-Simulation
 
 Social Buzz is a fast-growing technology unicorn that needs to adapt quickly to its global scale. Accenture has begun a 3 months POC focusing on these tasks:
 1. An audit of Social Buzz’s big data practice
